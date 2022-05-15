@@ -192,6 +192,7 @@
     width: 35px;
     vertical-align: top;
     position: relative;
+    font-size: .4em;
   }
 
   .cl-button:hover, .cl-button.active {
